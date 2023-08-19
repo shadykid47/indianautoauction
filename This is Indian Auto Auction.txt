@@ -1,0 +1,5 @@
+This is Indian Auto Auction
+
+Plan - 
+1. Create a database of random cars to be sold.
+2.  
